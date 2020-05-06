@@ -1,1 +1,1 @@
-# terms
+# winds-nagaoka/terms
