@@ -2,11 +2,7 @@
 title: ザ・ウィンド・アンサンブル規約(案)
 ---
 
-<style>
-p {
-  white-space: pre-wrap;
-}
-</style>
+<style>p{white-space: pre-wrap;}</style>
 
 (目的並びに会の設置)
 第一条　音楽を通じて自己の情操の育成を図るとともに、仲間との友好を深め、長岡市および地域住民
